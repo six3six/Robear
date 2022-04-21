@@ -1,0 +1,4 @@
+adafruit_pca9685
+pyshine
+opencv-python
+picamera
